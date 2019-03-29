@@ -1,7 +1,7 @@
 from setuptools import setup
 setup(name='smote',
       version='0.1',
-      description='',
+      description='Python implementation of the synthetic up-sampling algorithm called SMOTE.',
       url='https://github.com/chupati/smote',
       author='David N. Sanchez',
       author_email='dsanchez@dnsai.io',
